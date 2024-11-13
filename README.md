@@ -57,9 +57,8 @@ This is a Python script designed to restore Snapchat streaks using the Arkose La
 Usage:
 Run the script:
 
-bash
-نسخ الكود
-python restore_snap_streak.py
+   bash
+   `python restore_snap_streak.py`
 You will be prompted to enter:
 
 Your username.
