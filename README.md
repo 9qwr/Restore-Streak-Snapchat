@@ -5,7 +5,7 @@
 
 
 
-(![Snapstreak Logo](https://github.com/9qwr/Restore-Streak-Snapchat/blob/main/image_2024-11-13_19-39-19.jpg)
+![Snapstreak Logo](https://github.com/9qwr/Restore-Streak-Snapchat/blob/main/image_2024-11-13_19-39-19.jpg)
 
 
 ### المتطلبات:
