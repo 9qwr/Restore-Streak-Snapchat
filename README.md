@@ -56,7 +56,7 @@ This is a Python script designed to restore Snapchat streaks using the Arkose La
 2. Install the required libraries using the following command:
    ```bash
    pip install requests colorama
-###Usage:
+### Usage:
 Run the script:
 
    bash
