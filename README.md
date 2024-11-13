@@ -2,7 +2,7 @@
 
 ### الوصف:
 هذا سكربت بلغة بايثون يهدف إلى استعادة "ستريكس" سناب شات باستخدام رمز "آركوس لابز". يقوم السكربت بتنفيذ طلبات HTTP لإرسال البيانات المطلوبة إلى API الخاص بـ Snap، بعد استرداد الرمز المطلوب من Arkose Labs.
-![Uploading image.png…]()
+(### ![Snapstreak Logo](https://github.com/9qwr/Restore-Streak-Snapchat/blob/main/image_2024-11-13_19-39-19.jpg)
 
 ### المتطلبات:
 - Python 3.x
