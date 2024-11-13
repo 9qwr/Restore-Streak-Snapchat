@@ -22,8 +22,8 @@
 قم بتشغيل السكربت:
 
 bash
-نسخ الكود
-python restore_snap_streak.py
+
+```python restore_snap_streak.py```
 سيطلب منك إدخال:
 
 اسم المستخدم.
