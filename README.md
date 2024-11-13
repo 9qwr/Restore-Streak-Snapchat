@@ -45,14 +45,14 @@ Installation:
 Make sure Python 3.x is installed on your system.
 Install the required libraries using the following command:
 bash
-نسخ الكود
+
 pip install requests colorama
 Usage:
 Run the script:
+```bash
+pip install requests colorama
 
-bash
-نسخ الكود
-python restore_snap_streak.py
+
 You will be prompted to enter:
 
 Your username.
